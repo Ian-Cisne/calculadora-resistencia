@@ -6,7 +6,7 @@
 
 /*Programa que te calcula al resistencia total de un circuito simple
 Funciona de la siguiente manera:
-1 - Indico cuántas resistencias que tengo.
+1 - Indico cuántas resistencias tengo.
 2 - Ingreso el valor de las resistencias.
 3 - Ingreso la operación como una cadena de caracteres.
 La operación no se valida, se da por hecho que está bien escrita
